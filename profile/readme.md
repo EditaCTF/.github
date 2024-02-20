@@ -4,7 +4,7 @@
 Edita is a team of Cybersecurity enthusiasts participating in various CTFs and other cybersecurity and infosec-related events.
 
 ### What is EditaCTF?
-Face it, getting into Cybersecurity and CTFs is overwhelming at first. Pwn, OSINT, Crypto, all these terms thrown around which confuse you very much. So, we came up with EditaCTF.
+Face it, getting into Cybersecurity and CTFs is overwhelming at first. Pwn, OSINT, Crypto, all these terms are thrown around easily and confuse newbies a lot. So, we came up with EditaCTF.
 
 EditaCTF is our own CTF event, aimed towards newcomers and intermediates in the world of CTFs. To know when the upcoming editions are coming, check out the **Cyber Division** Discord server below.
 
