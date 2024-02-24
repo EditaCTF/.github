@@ -1,7 +1,7 @@
 # Part-time CTF Organizers, Full-time CTF doers.
 
 ### What is Edita?
-Edita is a team of Cybersecurity enthusiasts participating in various CTFs and other cybersecurity and infosec-related events.
+Edita is a team of Cybersecurity enthusiasts participating in various CTFs and other cybersecurity and infosec-related events. We do dabble on hackathons sometimes.
 
 ### What is EditaCTF?
 Face it, getting into Cybersecurity and CTFs is overwhelming at first. Pwn, OSINT, Crypto, all these terms are thrown around easily and confuse newbies a lot. So, we came up with EditaCTF.
